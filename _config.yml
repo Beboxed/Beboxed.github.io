@@ -23,7 +23,12 @@ navbar-links:
   About Me: "aboutme"
   Cryptic Crosswords:
     - Crash Course: "ccc"
-    #- Learn markdown: "https://www.markdowntutorial.com/"
+    - Glossary: "ccc_glossary"
+    - Abbreviations: "ccc_abbreviations"
+    - Tips: "ccc_tips"
+    - Other Crosswords and Resources : "ccc_resources"
+  Music:
+    - Piano Covers: "mus_piano"
   #Author's home: "https://deanattali.com"
 
 ################
