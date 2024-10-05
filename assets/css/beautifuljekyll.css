@@ -947,7 +947,12 @@ pre {
 .box-note,
 .box-warning,
 .box-error,
-.box-success {
+.box-success,
+.box-blue,
+.box-orange,
+.box-light-blue,
+.box-gray,
+.box-red {
   padding: 0.9375rem 0.9375rem 0.9375rem 0.625rem;
   margin: 1.25rem 1.25rem 1.25rem 0.3125rem;
   border: 1px solid #eee;
@@ -955,25 +960,53 @@ pre {
   border-radius: 0.3125rem 0.1875rem 0.1875rem 0.3125rem;
 }
 
+/* Existing Box Types */
 .box-note {
   background-color: #eee;
-  border-left-color: #2980b9;
+  border-left-color: #2980b9; /* Blue */
 }
 
 .box-warning {
-  background-color: #fdf5d4;
-  border-left-color: #f1c40f;
+  background-color: #fdf5d4; /* Light Yellow */
+  border-left-color: #f1c40f; /* Yellow */
 }
 
 .box-error {
-  background-color: #f4dddb;
-  border-left-color: #c0392b;
+  background-color: #f4dddb; /* Light Red */
+  border-left-color: #c0392b; /* Red */
 }
 
 .box-success {
-  background-color: #98FB98;
-  border-left-color: #3CB371;
+  background-color: #98FB98; /* Light Green */
+  border-left-color: #3CB371; /* Medium Sea Green */
 }
+
+/* New Box Types */
+.box-blue {
+  background-color: #d9edf7; /* Light Blue */
+  border-left-color: #31708f; /* Dark Blue */
+}
+
+.box-orange {
+  background-color: #fff3cd; /* Light Orange */
+  border-left-color: #856404; /* Dark Orange */
+}
+
+.box-light-blue {
+  background-color: #f0f8ff; /* Light Alice Blue */
+  border-left-color: #007bff; /* Blue */
+}
+
+.box-gray {
+  background-color: #e2e3e5; /* Light Gray */
+  border-left-color: #6c757d; /* Dark Gray */
+}
+
+.box-red {
+  background-color: #f8d7da; /* Light Red */
+  border-left-color: #c82333; /* Dark Red */
+}
+
 
 /* --- Misc blog post styles --- */
 
