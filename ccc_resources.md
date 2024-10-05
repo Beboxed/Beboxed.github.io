@@ -6,7 +6,8 @@ subtitle: A list of other recommended resources
 
 ### For more crosswords and practice...
 
-Here is a list of other cryptic crosswords publications, sorted by difficulty and focused towards beginners that I personally enjoy:
+Here is a list of other cryptic crosswords publications, sorted by difficulty that I personally enjoy and would recommend for other beginners.
+Please bear in mind that when starting out, even the easiest publications are expected to be challenging, so do not be disheartened!
 
 **New Yorker** easy free daily
 
