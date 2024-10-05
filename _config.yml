@@ -21,8 +21,8 @@ author: Ben Solly
 
 navbar-links:
   About Me: "aboutme"
-  #Resources:
-    #- Beautiful Jekyll: "https://beautifuljekyll.com"
+  Cryptic Crosswords:
+    - Crash Course: "ccc"
     #- Learn markdown: "https://www.markdowntutorial.com/"
   #Author's home: "https://deanattali.com"
 
