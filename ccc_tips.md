@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Tips and Tricks
 subtitle: Some useful tips and tricks to help with solving cryptic crosswords
 ---
