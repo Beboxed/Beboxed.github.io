@@ -15,4 +15,4 @@ subtitle: Collection of commonly used crossword abbreviations for reference
 | Word | Abbreviations | Explanation |
 | :------ |:--- | :--- |
 | Direction | N, E, S, W | As in compass directions |
-| | | |
+| Left | | |
